@@ -1,11 +1,22 @@
-# ⚡ FinPulse — Zorvyn Market Intelligence Dashboard
+# ⚡ FinPulse — ProjFuel Market Intelligence Dashboard
 
-> A real-time fintech analytics dashboard built with Python, Streamlit & Plotly.
+> An interactive, real-time fintech analytics dashboard built with Python, Streamlit, and Plotly.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-00d4ff?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-ff3b6b?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5.18+-00ff88?style=flat-square&logo=plotly&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-f0c040?style=flat-square)
+
+---
+
+## 📌 About the Project
+
+**FinPulse** is a high-performance market intelligence platform designed to track, analyze, and visualize global cryptocurrency market dynamics. Built with a modern, high-fidelity dark terminal aesthetic, FinPulse serves as a consolidated workspace for traders, analysts, and financial enthusiasts to monitor real-time pricing, macro market health metrics, and historical market sentiment indicators.
+
+### Key Value Propositions
+* **Consolidated Intelligence**: Integrates multiple data points—from real-time price feeds to global market capitalization KPIs and the crypto Fear & Greed sentiment index—into a single glassmorphic dashboard.
+* **Interactive Financial Modeling**: Employs interactive Plotly charting, allowing users to drill down into 30-day historical trends, token-specific market share (dominance), and a multidimensional Risk vs. Return scatter plot.
+* **Engineered for Efficiency**: Implements server-side data caching (`@st.cache_data`) with optimized Time-To-Live (TTL) cycles to provide fresh data while maintaining absolute rate-limit compliance with upstream REST APIs.
 
 ---
 
@@ -43,7 +54,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/finpulse-zorvyn.git
+git clone https://github.com/Yashodip2802/finpulse-zorvyn.git
 cd finpulse-zorvyn
 
 # Install dependencies

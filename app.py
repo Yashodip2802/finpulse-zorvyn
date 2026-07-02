@@ -12,6 +12,11 @@ st.set_page_config(
     page_icon="⚡",
     layout="wide",
     initial_sidebar_state="collapsed",
+    menu_items={
+        'Get Help': 'https://github.com/Yashodip2802/finpulse-zorvyn',
+        'Report a bug': 'https://github.com/Yashodip2802/finpulse-zorvyn/issues',
+        'About': "# FinPulse - ProjFuel Market Intelligence\n\nDeveloped by Yashodip @ ProjFuel Internship.\n\nFinPulse is a high-performance market intelligence platform designed to track, analyze, and visualize global cryptocurrency market dynamics. It integrates real-time price feeds, global market health metrics, and the Fear & Greed sentiment index into a single workspace."
+    }
 )
 
 # ── Master CSS ─────────────────────────────────────────────────────────────────
