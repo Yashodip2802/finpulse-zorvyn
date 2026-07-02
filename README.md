@@ -22,7 +22,7 @@
 
 ## 🔥 Live Demo
 
-👉 **[View Live Dashboard →](your-streamlit-app-url-here)**
+👉 **[View Live Dashboard →](https://finpulse-zorvyn-lfb5zmbowqxjxpwzykare7.streamlit.app/)**
 
 ---
 
