@@ -8,7 +8,7 @@ import time
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="FinPulse · Zorvyn Market Intelligence",
+    page_title="FinPulse · ProjFuel Market Intelligence",
     page_icon="⚡",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -596,7 +596,7 @@ with st.sidebar:
     <div style="font-family:'DM Mono',monospace; font-size:0.58rem; color:#334155;
          line-height:1.6;">
     Data: CoinGecko · Alternative.me<br>
-    Built for Zorvyn FinTech Pvt. Ltd.<br>
+    Made by Yashodip @ ProjFuel Internship<br>
     🇮🇳 Made in India
     </div>""", unsafe_allow_html=True)
 
@@ -617,7 +617,7 @@ st.markdown(f"""
     </div>
     <div class="hero-title">FINPULSE</div>
     <div class="hero-sub">
-        <span>Zorvyn FinTech Market Intelligence</span> ·
+        <span>ProjFuel Market Intelligence</span> ·
         Crypto · Sentiment · Risk · India Markets
     </div>
 </div>
@@ -1074,8 +1074,8 @@ if active_coins:
 st.markdown(f"""
 <div class="footer">
     <div>
-        <span class="footer-brand">⚡ FinPulse</span> · Built for
-        <span class="footer-brand">Zorvyn FinTech Pvt. Ltd.</span> ·
+        <span class="footer-brand">⚡ FinPulse</span> · Made by
+        <span class="footer-brand">Yashodip @ ProjFuel Internship</span> ·
         Data: CoinGecko API &amp; Alternative.me
     </div>
     <div>

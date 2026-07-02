@@ -90,11 +90,11 @@ finpulse-zorvyn/
 
 ## 👩‍💻 Built By
 
-**Bhoomika S** — Data Analyst Intern applicant @ Zorvyn FinTech  
-*This project was built as a demonstration of real-world data analytics & dashboard engineering skills.*
+**Yashodip** — Intern @ ProjFuel  
+*This project was built as a demonstration of real-world data analytics & dashboard engineering skills during the ProjFuel internship.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](your-github-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yashodip2802)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Yashodip2802)
 
 ---
 
